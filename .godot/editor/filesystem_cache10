@@ -1,0 +1,13 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1788064741
+icon.svg::CompressedTexture2D::1790880795757653::1788059519::1788059534::1::::<><><>0<>0<>1d558fff71561543e2cf7e0d300c3350<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node_2d.gd::GDScript::8551447095546244203::1788064485::0::1::::<>Node2D<><>0<>0<><>::
+node_2d.tscn::PackedScene::2067450008304524526::1788064424::0::1::::<><><>0<>0<><>::uid://dt3nc4our1mgp::::res://node_2d.gd<>uid://qydt64bsarob::::res://Assets/Water.png<>uid://c237jodsshng1::::res://Assets/Plane.png<>uid://b5lh6g7hetou4::::res://Assets/Helicopter.png<>uid://b1xg82cynwese::::res://Assets/Carrier.png<>uid://cg5bvd2uuqxjv::::res://Assets/eating.wav
+::res://Assets/::1788059956
+Carrier.png::CompressedTexture2D::4259235962109533432::1788059954::1788059936::1::::<><><>0<>0<>38c7e76b45d984567517839c21123752<>res://.godot/imported/Carrier.png-2909b4d7d1c30f76b27adfee56f957c3.ctex::
+eating.wav::AudioStreamWAV::5256004180716819619::1788059955::1788059956::1::::<><><>0<>0<>d41f4aaa9a0f8de6bf38d4acee25c5b8<>res://.godot/imported/eating.wav-c04ebf69eb387b3f9c994bfd103467d7.sample::
+Helicopter.png::CompressedTexture2D::4515274891587146293::1788059955::1788059956::1::::<><><>0<>0<>fb896a2b5738aac4e81d9b35a4791aa0<>res://.godot/imported/Helicopter.png-b9988d091973c4cc95a4da7fa96f5058.ctex::
+Links.txt::TextFile::-1::1788059955::0::1::::<><><>0<>0<><>::
+Plane.png::CompressedTexture2D::6727702479443918450::1788059954::1788059956::1::::<><><>0<>0<>36b6f8690bd0113ef714178e7fcfc574<>res://.godot/imported/Plane.png-e84a84aa5f0626044904fe342fba9075.ctex::
+tile_454.png::CompressedTexture2D::6774471612794292135::1788059954::1788059956::1::::<><><>0<>0<>bc4ac37e40e315e070fa4e9798a945ad<>res://.godot/imported/tile_454.png-fcdbeea620979ab92daf81383b0201d8.ctex::
+Water.png::CompressedTexture2D::1172784318461137313::1788059954::1788059956::1::::<><><>0<>0<>73966e0e15c9c8424b56e86c6c5d9101<>res://.godot/imported/Water.png-b2e18ca3bc1ee31d8f0e6ddd4a76a170.ctex::
